@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "efdd": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\code\\efdd\\"
+    }
+  }
+}
