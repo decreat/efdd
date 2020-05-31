@@ -103,3 +103,4 @@ D:\code\efdd\obj\Debug\netcoreapp3.1\efdd.csproj.CopyComplete
 D:\code\efdd\obj\Debug\netcoreapp3.1\efdd.dll
 D:\code\efdd\obj\Debug\netcoreapp3.1\efdd.pdb
 D:\code\efdd\obj\Debug\netcoreapp3.1\efdd.genruntimeconfig.cache
+D:\code\efdd\obj\Debug\netcoreapp3.1\efdd.csprojAssemblyReference.cache
